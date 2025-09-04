@@ -1,4 +1,4 @@
-![banner](https://github.com/Deepaksiddhu/Deepaksiddhu/blob/main/assets/banner.png)
+![logo](https://github.com/DeepakSiddhi07/DeepakSiddhi07/blob/main/Background%20img(Git).jpg)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1 align="center">Namaste 🙏, I'm Deepak Siddhi</h1>
