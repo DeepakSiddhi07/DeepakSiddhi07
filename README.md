@@ -50,6 +50,7 @@
 </p>
 
 ---
+![GitHub Snake Animation](https://github.com/Deepaksiddhu/Deepaksiddhu/blob/output/snake.svg)
 
 ### 📊 GitHub Stats
 <p align="center">
